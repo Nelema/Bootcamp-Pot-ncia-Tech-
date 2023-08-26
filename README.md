@@ -1,6 +1,6 @@
-** Bootcamp-Potencia-Tech
+** Bootcamp-Potencia-Tech  Powered by iFood
 
-**   Potência Tech Powered by iFood Ciência de Dados com Python
+** Ciência de Dados com Python
 
 **    Instrutora da DIO.me
 
@@ -22,7 +22,7 @@
 	   Para entender todo o processo da modelagem assisti aos vídeos, busquei informações diversas, desenhei a Modelagem Conceitual, dos dois tipos textual e em Diagrama,
      me aventurei na nova ferramenta apresentada pela Instrutora Juliana Mascarenhas, diagrams.net, criei as tabelas no meu Primeiro Projeto no MySQL mas algo não entendi
      na distribuição dos relacionamento do negócio, é essencial determinar quais as  necessidades  para ser assertivo, não foi tempo perdido, pois esse desafio ainda continua, 
-     é necessário analisar com mais calma, resolvi entregar esse mini projeto com muitas questões a serem respondidas e resolvidas e principalmente aprendidas.
+     é necessário analisar com mais calma, resolvi entregar esse mini projeto com muitas questões  para entender, aprendendo com os erros.
 
      🚀🚀🚀 Elaborado por Neita Mattos
               
