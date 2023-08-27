@@ -24,6 +24,18 @@
      na distribuição dos relacionamento do negócio, é essencial determinar quais as  necessidades  para ser assertivo, não foi tempo perdido, pois esse desafio ainda continua, 
      é necessário analisar com mais calma, resolvi entregar esse mini projeto com muitas questões  para entender, aprendendo com os erros.
 
-     🚀🚀🚀 Elaborado por Neita Mattos
+
+
+ ##Segundo Desafio (Criando um Projeto Banco de Dados do Zero)
+  
+ ##Link:Descrição do Projeto Banco de Dados Sucos Venda
+	
+ #https://1drv.ms/w/s!Avta8RUkR-z4kClt3ICIqUgVvSsF?e=U9VlP9
+ 
+ ###Link do diagrama Relacional (SUCOS VENDAS)
+   
+ #https://drive.google.com/file/d/1dVVmWKgT--S5OHnUcN2Mx-akQD3aGBga/view?usp=sharing
+
+    *** 🚀🚀🚀 Elaborado por Neita Mattos
               
 
